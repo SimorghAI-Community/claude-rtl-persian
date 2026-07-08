@@ -2,7 +2,7 @@
    Direction is decided per element by content.js (Persian -> RTL, else LTR).
    This stylesheet only guarantees that code always stays LTR.
    The old global RTL rules were removed because they forced English/prompts
-   to be right-aligned too — that was the bug. */
+   
 
 /* Code blocks and inline code: always LTR */
 pre,
